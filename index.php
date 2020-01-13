@@ -1,1 +1,4 @@
-<?php echo 'ini index:)'; ?>
+<?php
+  echo 'ini index:)';
+  echo "tak tambahin ini:')";
+?>
